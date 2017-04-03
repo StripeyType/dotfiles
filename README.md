@@ -1,2 +1,2 @@
 # dotfiles
-Personalization and Configuration for Bash, i3, and more.
+RJSIII's Personalization and Configuration for Bash, including SSH key agent.
